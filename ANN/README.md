@@ -10,9 +10,7 @@ model.add(tf.keras.layers.Dense(units=128, activation='relu', input_shape=(784, 
 ```
 ``` model.add(...) ``` Adds a layer to the model.
 
-``` tf.keras.layers.Dense(...) ``` Fully connected layer where the neurons learn.
-
-``` tf.keras.layers.Dense(units=128, activation='relu', input_shape=(784, )) ``` 
+``` tf.keras.layers.Dense(units=..., activation='...', input_shape=(..., ...)) ``` Fully connected layer where the neurons learn.
 
 _units_: Number of neurons in the layer
 
