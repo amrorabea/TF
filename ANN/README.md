@@ -5,3 +5,10 @@ tf.keras.models.Sequential()
 ```
 This initializes the model basic object,
 defines a linear stack of layers (Acts as the container for the layers).
+
+```pip
+model.add(tf.keras.layers.Dense(units=128, activation='relu', input_shape=(784, )))
+```
+``` model.add(...) ``` Adds a layer to the model
+``` tf.keras.layers.Dense(...) ``` Fully connected layer where the neurons learn.
+
