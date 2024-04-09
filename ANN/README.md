@@ -1,2 +1,2 @@
-# This is the full explaination of the code in the file [link](https://github.com/amrorabea/TF/blob/main/ANN/ANN.ipynb)
+# This is the full explaination of the code in this [File](https://github.com/amrorabea/TF/blob/main/ANN/ANN.ipynb)
 ## 
